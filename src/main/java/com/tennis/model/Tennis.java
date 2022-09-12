@@ -11,7 +11,8 @@ public class Tennis {
     this.secondPlayerName = secondPlayerName;
   }
 
-  private int firstPlayerScore;
+  private int firstPlayerPoint;
 
-  private int secondPlayerScore;
+  private int secondPlayerPoint;
+
 }
