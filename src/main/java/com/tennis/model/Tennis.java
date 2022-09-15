@@ -15,4 +15,16 @@ public class Tennis {
 
   private int secondPlayerPoint;
 
+  public void firstPlayerScore(){
+    this.firstPlayerPoint++;
+  }
+
+  public void secondPlayerScore(){
+    this.secondPlayerPoint++;
+  }
+
+  public String score(){
+    return null;
+  }
+
 }
